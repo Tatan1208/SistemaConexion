@@ -1,4 +1,4 @@
-package com.jeac.connection;
+package com.jeac.connection.Connection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
